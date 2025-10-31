@@ -1,0 +1,133 @@
+top 10 most frequent phrases of length 1
+phrase                                      frequency in Biblefrequency in William Shakespeare
+the                                                      61680                           30502
+and                                                      49862                           28503
+of                                                       33195                           18863
+to                                                       13031                           20714
+i                                                         8712                           22159
+in                                                       12211                           12450
+that                                                     12561                           11813
+a                                                         7997                           16323
+my                                                        4305                           13198
+you                                                       2587                           14458
+
+top 10 most frequent phrases of length 2
+phrase                                      frequency in Biblefrequency in William Shakespeare
+of the                                                   11019                            1709
+and the                                                   6048                             857
+in the                                                    4805                            2008
+the lord                                                  6641                             117
+to the                                                    2046                            1546
+i will                                                    1890                            1624
+shall be                                                  2439                             571
+and he                                                    2576                             241
+i have                                                    1037                            1714
+i am                                                       738                            1958
+
+top 10 most frequent phrases of length 3
+phrase                                      frequency in Biblefrequency in William Shakespeare
+of the lord                                               1614                               4
+the son of                                                1356                              23
+the children of                                           1334                               1
+the house of                                               801                              37
+out of the                                                 781                              54
+saith the lord                                             829                               0
+and i will                                                 657                             135
+children of israel                                         633                               0
+and all the                                                532                              88
+the land of                                                602                               1
+
+top 10 most frequent phrases of length 4
+phrase                                      frequency in Biblefrequency in William Shakespeare
+the children of israel                                     624                               0
+it came to pass                                            417                               2
+thus saith the lord                                        395                               0
+of the children of                                         368                               0
+and it came to                                             365                               0
+the lord thy god                                           302                               0
+saith the lord god                                         252                               0
+the word of the                                            250                               1
+word of the lord                                           243                               0
+the lord of hosts                                          234                               1
+
+top 10 most frequent phrases of length 5
+phrase                                      frequency in Biblefrequency in William Shakespeare
+and it came to pass                                        365                               0
+the word of the lord                                       243                               0
+the house of the lord                                      184                               0
+of the children of israel                                  162                               0
+thus saith the lord god                                    157                               0
+the tabernacle of the congregation                         133                               0
+it came to pass when                                       129                               0
+and the lord said unto                                     123                               0
+saith the lord of hosts                                    123                               0
+it shall come to pass                                      120                               0
+
+top 10 most frequent phrases of length 6
+phrase                                      frequency in Biblefrequency in William Shakespeare
+and it came to pass when                                   113                               0
+and it shall come to pass                                  102                               0
+and the lord spake unto moses                               99                               0
+the word of the lord came                                   91                               0
+out of the land of egypt                                    80                               0
+know that i am the lord                                     77                               0
+the lord spake unto moses saying                            74                               0
+thus saith the lord of hosts                                70                               0
+word of the lord came unto                                  63                               0
+of the tabernacle of the congregation                       61                               0
+
+top 10 most frequent phrases of length 7
+phrase                                      frequency in Biblefrequency in William Shakespeare
+and the lord spake unto moses saying                        72                               0
+the word of the lord came unto                              63                               0
+shall know that i am the lord                               57                               0
+the door of the tabernacle of the                           47                               0
+word of the lord came unto me                               46                               0
+door of the tabernacle of the congregation                    45                               0
+of the lord came unto me saying                             42                               0
+and it shall come to pass that                              36                               0
+the lord of hosts the god of                                35                               0
+lord of hosts the god of israel                             34                               0
+
+top 10 most frequent phrases of length 8
+phrase                                      frequency in Biblefrequency in William Shakespeare
+the word of the lord came unto me                           46                               0
+the door of the tabernacle of the congregation                    45                               0
+word of the lord came unto me saying                        42                               0
+the lord of hosts the god of israel                         34                               0
+and the lord spake unto moses saying speak                    32                               0
+the ark of the covenant of the lord                         32                               0
+lord came unto me saying son of man                         31                               0
+of the lord came unto me saying son                         31                               0
+the lord came unto me saying son of                         31                               0
+the lord spake unto moses saying speak unto                    31                               0
+
+top 10 most frequent phrases of length 9
+phrase                                      frequency in Biblefrequency in William Shakespeare
+the word of the lord came unto me saying                    42                               0
+and the lord spake unto moses saying speak unto                    31                               0
+of the lord came unto me saying son of                      31                               0
+the lord came unto me saying son of man                     31                               0
+word of the lord came unto me saying son                    31                               0
+saith the lord of hosts the god of israel                    30                               0
+thus saith the lord of hosts the god of                     29                               0
+and they shall know that i am the lord                      24                               0
+and ye shall know that i am the lord                        24                               0
+and it shall come to pass in that day                       22                               0
+
+top 10 most frequent phrases of length 10
+phrase                                      frequency in Biblefrequency in William Shakespeare
+of the lord came unto me saying son of man                    31                               0
+the word of the lord came unto me saying son                    31                               0
+word of the lord came unto me saying son of                    31                               0
+thus saith the lord of hosts the god of israel                    29                               0
+and the lord spake unto moses saying speak unto the                    22                               0
+lord spake unto moses saying speak unto the children of                    21                               0
+spake unto moses saying speak unto the children of israel                    21                               0
+the lord spake unto moses saying speak unto the children                    21                               0
+and it shall come to pass in that day that                    17                               0
+years old when he began to reign and he reigned                    15                               0
+
+
++++++++++++++++++++++
+time used: 19 seconds
